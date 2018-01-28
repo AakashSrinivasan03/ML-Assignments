@@ -1,0 +1,15 @@
+question 1: 
+Data avilable in Dataset folder , name of file:DS1-test.csv and DS1-train.csv
+question 2:
+coeffts avl in Dataset/coeff-q2.csv
+question 2:
+graph avilable in Dataset/graph_q3.png
+question 4:
+original data avl Dataset/DS2.csv
+Note I am neglecting first 5 features given in original DS2.csv
+mean imputed avl in Dataset/DS2_mean.csv,similarly median in Dataset/DS2_median.csv
+question 5:
+CandC training,test datas avilable in Dataset
+coeffts avl in Dataset/coeff-q2.csv
+question 6:
+coeffts avl in Dataset/coeff-q6.csv

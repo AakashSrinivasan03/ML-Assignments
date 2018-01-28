@@ -1,0 +1,2 @@
+For q8 Part , I have created a DS2-q8-test-normalised.csv and DS2-q8-train-normalised.csv which were already shuffled and noramlised,scaled.
+I am not adding b1 or b2 in grad b part,in implemtation as it is bias term.
